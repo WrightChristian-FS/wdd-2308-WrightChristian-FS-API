@@ -8,8 +8,8 @@ Update this document to summarize integrative research and activity conducted th
 # Final Project 
 
 * **RESEARCH - ASSIGNMENT TITLE HERE, .i.e. ..."Research & Integrative Activity - Week 1"**
-* **First Last Name**
-* **Assignment Due Date**
+* **Christian Wright**
+* **September 4, 2023**
 
 <br>
 

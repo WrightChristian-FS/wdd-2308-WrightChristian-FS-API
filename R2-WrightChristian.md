@@ -8,8 +8,8 @@ Update this document to summarize integrative research and activity conducted th
 # Final Project 
 
 * **RESEARCH - "Research 3 & Integrative Activity - Week 1"**
-* **Christian Wrighte**
-* **August 6, 2023**
+* **Christian Wright**
+* **September 4, 2023**
 
 <br>
 
